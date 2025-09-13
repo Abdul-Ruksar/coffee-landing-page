@@ -38,16 +38,6 @@ Unsplash Images for free high-quality visuals
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📂 Project Structure
-Coffee_Landing_Page/
-|-- index.html # Main structure
-|-- style.css # Styles and animations
-|-- script.js # Scroll and interactive animations
-|-- images/ # (Optional) Local images if used
-└-- README.md # Documentation
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Customization
 
 Colors → Update color palette in style.css (primary: #95643a, secondary: #4b3a2f).
