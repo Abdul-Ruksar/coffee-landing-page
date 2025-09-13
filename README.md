@@ -34,11 +34,11 @@ Unsplash Images for free high-quality visuals
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Project Structure
 Coffee_Landing_Page/
-│── index.html       # Main structure
-│── style.css        # Styles and animations
-│── script.js        # Scroll and interactive animations
-│── images/          # (Optional) Local images if used
-│── README.md        # Documentation
+ index.html       # Main structure
+ style.css        # Styles and animations
+ script.js        # Scroll and interactive animations
+ images/          # (Optional) Local images if used
+ README.md        # Documentation
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Customization
 
