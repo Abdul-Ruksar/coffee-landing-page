@@ -1,87 +1,81 @@
 ☕ Coffee Landing Page
 
-A modern, responsive coffee shop landing page built with HTML, CSS, and JavaScript, featuring smooth animations, elegant UI components, and a clean design.
+A clean, modern, and responsive Coffee Shop Landing Page built using HTML, CSS, and JavaScript. This project is designed to showcase a coffee brand with engaging animations, featured drinks, and promotional sections.
 
-🚀 Features
+✨ Features
 
-🎨 Responsive Design – Works seamlessly across desktop and mobile devices.
+Responsive layout for all screen sizes.
 
-✨ Scroll Animations – Elements fade in and slide up smoothly as the user scrolls.
+Smooth scroll-triggered animations (fade-in, slide-up).
 
-☕ Hero Section – Eye-catching hero banner with call-to-action button.
+Floating hero image with call-to-action button.
 
-🍹 Featured Drinks Section – Highlights popular coffee and iced drink options.
+Navigation bar with links to sections (Home, Menu, Story, Shopify, Contact).
 
-🥐 Special Offer Banner – Promotional offer section to attract customers.
+Featured Drinks section highlighting different categories.
 
-👣 Footer with Details – Includes brand info, testimonials, and customer highlights.
+Special Offer banner for promotions.
 
-🔄 Interactive Animations – Button hover effects and floating hero image animation.
+Footer with brand info, testimonials, and customer highlights.
+
+Interactive hover effects on buttons and cards.
 
 🛠️ Technologies Used
 
-HTML5 – Semantic structure and accessibility.
+HTML5
 
-CSS3 – Custom styling, responsive design, and animations.
+CSS3 (custom styling, responsive design, animations)
 
-JavaScript (Vanilla JS) – Scroll-triggered animations and interaction logic.
+JavaScript (Vanilla) (scroll and interactive animations)
 
-Google Fonts – Elegant typography.
+Google Fonts (Montserrat)
 
-Unsplash Images – High-quality visuals for coffee and drinks.
+Unsplash Images for free high-quality visuals
 
 📂 Project Structure
-coffee-landing-page/
-│── index.html        # Main page structure
-│── style.css         # Styles and animations
-│── script.js         # Interactive animations and scroll effects
-│── images/           # (Optional) Local images if needed
-│── README.md         # Project documentation
+Coffee_Landing_Page/
+│── index.html       # Main structure
+│── style.css        # Styles and animations
+│── script.js        # Scroll and interactive animations
+│── images/          # (Optional) Local images if used
+│── README.md        # Documentation
 
-⚙️ Customisation
+⚙️ Customization
 
-You can easily tailor this project to your own brand:
+Colors → Update color palette in style.css (primary: #95643a, secondary: #4b3a2f).
 
-Change Colors → Update in style.css (primary colors: #95643a, #4b3a2f).
+Images → Replace Unsplash image links in index.html with your own assets.
 
-Replace Images → Swap Unsplash URLs in index.html with your own assets.
+Texts → Update hero text, featured drinks, and footer content in index.html.
 
-Edit Texts → Update headings, descriptions, and footer details inside index.html.
-
-Animations → Adjust timing and effects in style.css and script.js.
+Animations → Modify transition timings in style.css and script.js.
 
 🚀 Deployment
 
-To deploy your landing page:
+You can deploy this project using:
 
-Clone this repository:
+GitHub Pages
 
-git clone https://github.com/yourusername/coffee-landing-page.git
-cd coffee-landing-page
+Netlify
 
+Vercel
 
-Open index.html directly in a browser or use a local server (e.g., Live Server in VS Code).
-
-For production hosting:
-
-GitHub Pages – Free and simple hosting.
-
-Netlify / Vercel – Drag & drop deployment.
-
-Custom Hosting – Upload files to your web server.
+Any static web server
 
 🙌 Acknowledgements
 
-Unsplash – For free, high-quality coffee images.
+Unsplash – Free stock coffee images.
 
-Google Fonts (Montserrat) – For clean typography.
+Google Fonts – Typography.
 
-Inspiration – Coffee shop websites and modern landing page design principles.
+Inspiration – Modern landing page UI/UX patterns.
 
 👨‍💻 Author
 
 Abdul Ruksar
 
 📧 Email: abdulruksar39@gmail.com
+
+🌐 Portfolio: your-portfolio-link.com
 
 💼 LinkedIn: linkedin.com/in/yourprofile
