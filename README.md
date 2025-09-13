@@ -17,8 +17,11 @@ Special Offer banner for promotions.
 
 Footer with brand info, testimonials, and customer highlights.
 
-Interactive hover effects on buttons and cards.
+Interactivehover effects on buttons and cards.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 🛠️ Technologies Used
 
 HTML5
@@ -30,7 +33,9 @@ JavaScript (Vanilla) (scroll and interactive animations)
 Google Fonts (Montserrat)
 
 Unsplash Images for free high-quality visuals
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📂 Project Structure
 
 Coffee_Landing_Page/
@@ -50,7 +55,9 @@ Images → Replace Unsplash image links in index.html with your own assets.
 Texts → Update hero text, featured drinks, and footer content in index.html.
 
 Animations → Modify transition timings in style.css and script.js.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🚀 Deployment
 
 You can deploy this project using:
@@ -62,7 +69,9 @@ Netlify
 Vercel
 
 Any static web server
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🙌 Acknowledgements
 
 Unsplash – Free stock coffee images.
@@ -70,7 +79,9 @@ Unsplash – Free stock coffee images.
 Google Fonts – Typography.
 
 Inspiration – Modern landing page UI/UX patterns.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 👨‍💻 Author
 
 Abdul Ruksar
