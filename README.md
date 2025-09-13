@@ -1,7 +1,7 @@
 ☕ Coffee Landing Page
 
 A clean, modern, and responsive Coffee Shop Landing Page built using HTML, CSS, and JavaScript. This project is designed to showcase a coffee brand with engaging animations, featured drinks, and promotional sections.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✨ Features
 
 Responsive layout for all screen sizes.
@@ -19,7 +19,7 @@ Special Offer banner for promotions.
 Footer with brand info, testimonials, and customer highlights.
 
 Interactive hover effects on buttons and cards.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Technologies Used
 
 HTML5
@@ -31,7 +31,7 @@ JavaScript (Vanilla) (scroll and interactive animations)
 Google Fonts (Montserrat)
 
 Unsplash Images for free high-quality visuals
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Project Structure
 Coffee_Landing_Page/
 │── index.html       # Main structure
@@ -39,7 +39,7 @@ Coffee_Landing_Page/
 │── script.js        # Scroll and interactive animations
 │── images/          # (Optional) Local images if used
 │── README.md        # Documentation
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Customization
 
 Colors → Update color palette in style.css (primary: #95643a, secondary: #4b3a2f).
@@ -49,7 +49,7 @@ Images → Replace Unsplash image links in index.html with your own assets.
 Texts → Update hero text, featured drinks, and footer content in index.html.
 
 Animations → Modify transition timings in style.css and script.js.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Deployment
 
 You can deploy this project using:
@@ -61,7 +61,7 @@ Netlify
 Vercel
 
 Any static web server
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🙌 Acknowledgements
 
 Unsplash – Free stock coffee images.
@@ -69,13 +69,11 @@ Unsplash – Free stock coffee images.
 Google Fonts – Typography.
 
 Inspiration – Modern landing page UI/UX patterns.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👨‍💻 Author
 
 Abdul Ruksar
 
 📧 Email: abdulruksar39@gmail.com
 
-🌐 Portfolio: your-portfolio-link.com
 
-💼 LinkedIn: linkedin.com/in/yourprofile
